@@ -1,4 +1,6 @@
 # Pass the Pigs strategy tournament simulator
+
+![screenshot](https://raw.githubusercontent.com/syntaxaire/pigsapp/master/screenshot.png)
 Pass the Pigs is a game of rolling pig-shaped dice with uneven side chances. The two pigs can be worth more or less depending on which side they land on, or may force you to lose your turn score by landing on opposite flanks. The object of the game is to reach a score of 100 first.
 
 Some scholarly work has been done on statistical analysis of this game:
