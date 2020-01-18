@@ -4,9 +4,9 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+pyinstaller = "*"
 
 [packages]
-PyInstaller = "==3.4"
 PySide2 = "==5.11.2"
 
 [requires]
