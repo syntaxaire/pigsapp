@@ -1,2 +1,0 @@
-PyInstaller==3.4
-PySide2==5.11.2

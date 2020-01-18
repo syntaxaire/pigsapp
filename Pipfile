@@ -1,0 +1,13 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+PyInstaller = "==3.4"
+PySide2 = "==5.11.2"
+
+[requires]
+python_version = "3.7"
